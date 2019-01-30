@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+Just another repository.
+
+Hi, my name is Claudine.
+Nice to meet you. :)
+
